@@ -1,2 +1,2 @@
 # Music-Recommendation-System
-Our system helps users discover songs that match their taste. It uses ontologies and web semantics to learn from the user’s preferences, behavior, and past listening habits. It then recommends songs, albums, or artists that are popular in the genre or artist that the user chooses. 
+We have created an ontology-based music recommender that can offer personalized and diverse music suggestions to users based on their preferences. We used Protege, Celfie plug-in, and Apache Jena Fuseki to construct the ontology that represents the complex relationships between different music genres, styles, and moods. We implemented the system with Flask and web technologies such as HTML, CSS, and JavaScript to create a user-friendly interface.
